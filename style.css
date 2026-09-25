@@ -1,6 +1,10 @@
-body {background-colour:#FFE8BE;}
+body {background-colour:#F0FFC2;}
  h1 {color:#2FA084;
      text-align: center;
+     font-size: 50pt;
+     font-weight: bold;
+     font-family: sans-serif;
+     font-style: italic; 
     }
 
   p {
@@ -12,3 +16,11 @@ body {background-colour:#FFE8BE;}
    border: 1px ;
    border-color: #DC9B9B ;
   }
+
+div {
+ text-allign: center;
+}
+
+a {
+ color: #C44545 ; 
+}
