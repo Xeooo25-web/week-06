@@ -7,14 +7,21 @@ body {background-colour:#F0FFC2;}
      font-style: italic; 
     }
 
+.kanan{text-align: right;}
+.kiri{text-align: left;}
+.tengah{text-align: center;}
+
   p {
    background-color:#9AD872; 
    color:#468432;
    padding: 6px;
-   margin: 9,8cm
+   margin: auto;
+   margin-bottom: bottom; 
+   min-weidth: 40cm 
    text-align: right;
    border: 1px ;
    border-color: #DC9B9B ;
+   width: 50% ;
   }
 
 div {
@@ -23,4 +30,7 @@ div {
 
 a {
  color: #C44545 ; 
+ text-decoration: none; 
 }
+
+
