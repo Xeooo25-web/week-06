@@ -1,3 +1,14 @@
-body {background-colour:#FFE8BE}
- h1 {color:#2FA084}
-  p {color:#468432}
+body {background-colour:#FFE8BE;}
+ h1 {color:#2FA084;
+     text-align: center;
+    }
+
+  p {
+   background-color:#9AD872; 
+   color:#468432;
+   padding: 6px;
+   margin: 9,8cm
+   text-align: right;
+   border: 1px ;
+   border-color: #DC9B9B ;
+  }
