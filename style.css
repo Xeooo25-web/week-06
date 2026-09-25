@@ -1,36 +1,40 @@
-body {background-colour:#F0FFC2;}
- h1 {color:#2FA084;
-     text-align: center;
-     font-size: 50pt;
-     font-weight: bold;
-     font-family: sans-serif;
-     font-style: italic; 
-    }
-
-.kanan{text-align: right;}
-.kiri{text-align: left;}
-.tengah{text-align: center;}
-
-  p {
-   background-color:#9AD872; 
-   color:#468432;
-   padding: 6px;
-   margin: auto;
-   margin-bottom: bottom; 
-   min-weidth: 40cm 
-   text-align: right;
-   border: 1px ;
-   border-color: #DC9B9B ;
-   width: 50% ;
+<body { background-color:#E8F5BD; }
+  
+  h1 { style=color:#43637E;
+       text-align:center; 
+	   font-size:40pt;
+	   font-weight: bold;
+	   font-family: sans-serif;
+	   font-style: italic;
+	 }
+  
+  p { style=color:#A2CB8B;
+      background-color:#5B7E3C;
+	  padding: 0,6em;
+	  margin: auto;
+	  margin-bottom: 2em;
+	  text-align: right;
+	  border: 4px dashed black;
+	  width: 50%;
+	  min-width: 40em;
   }
-
-div {
- text-allign: center;
-}
-
-a {
- color: #C44545 ; 
- text-decoration: none; 
-}
-
-
+  
+  .kanan {text-align: right;}
+  .kiri {text-align: left;}
+  .tengah {text-lign: center;}
+  
+  .begronijo {background-color: #A4B885;}
+  .begronbiru {background-color: #CFEBFF;}
+  .begronkuning {background-color: #FFFCE1;}
+  
+  
+  
+  div {
+	  text-align:center;
+  }
+  
+  a {
+	  color:#C44545;
+	  text decoration:none;
+	  
+  }
